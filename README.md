@@ -20,7 +20,7 @@ The final synthized dynamic scene:
 1. Scene 1
   ![alt text](https://github.com/anasmobasher/NeRF_Novel_Scene_Synthesis/blob/main/docs/pics/scene1.gif?raw=true)
 2. Scene 2
-  ![alt text](https://github.com/anasmobasher/NeRF_Novel_Scene_Synthesis/blob/main/docs/pics/scene2.mp4s?raw=true)
+  ![alt text](https://github.com/anasmobasher/NeRF_Novel_Scene_Synthesis/blob/main/docs/pics/Scene2.gif?raw=true)
 
 ## Installation
 The code is confidential and cannot be shared
