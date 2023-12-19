@@ -12,6 +12,12 @@ A Novel NeRF-based Approach for Extracting Single Objects and Generating Synthet
   5. Training on Real Data: Train another grasp prediction network using real-world datasets for comparative analysis.
   6. Performance Evaluation: Evaluate and compare the performance of both networks using real-world datasets to assess their effectiveness.
 
+## Datasets
+
+1. For NeRF training: dataset should consist of images and their corresponding camera information (extrinsics, intrinsics). 
+* camear infromation ccould be estimated using structure from motion approachs (COLAP, DSO)
+* folder-per-sample or folder-per-category (default)
+
 ## Methodology
 Will be added later
 
@@ -23,8 +29,10 @@ The final synthized dynamic scene:
   ![alt text](https://github.com/anasmobasher/NeRF_Novel_Scene_Synthesis/blob/main/docs/pics/Scene2.gif?raw=true)
 
 ## Installation
-The code is confidential and cannot be shared
-
+1. Train a standered NeRF on the background dataset from the nerf_base_module
+2. Train using the trained Background NeRF on the object dataset using nerf_combine_module
+3. Using nerf_EvalSynthmulti.py to generate scenes form the trained Object NeRFs and Background NeRFs.  
+4. 
 ## Contributing
 A Novel NeRF-based Approach for Extracting Single Objects and Generating Synthetic Scenes  
 
