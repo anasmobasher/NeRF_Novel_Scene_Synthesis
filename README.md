@@ -16,7 +16,11 @@ A Novel NeRF-based Approach for Extracting Single Objects and Generating Synthet
 Will be added later
 
 ## Results
-Highlight the outcomes achieved. This could involve metrics, successful implementations, or any notable findings. Visual aids like charts, graphs, or screenshots can be helpful here.
+The final synthized dynamic scene:
+Scene 1
+![alt text](https://github.com/anasmobasher/NeRF_Novel_Scene_Synthesis/docs/pics/scene1.gif?raw=true)
+Scene 2
+![alt text](https://github.com/anasmobasher/NeRF_Novel_Scene_Synthesis/docs/pics/scene2.mp4s?raw=true)
 
 ## Installation
 The code is confidential and cannot be shared
@@ -25,4 +29,3 @@ The code is confidential and cannot be shared
 A Novel NeRF-based Approach for Extracting Single Objects and Generating Synthetic Scenes  
 
 ## License
-Specify the license under which the project is distributed.
